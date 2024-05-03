@@ -29,8 +29,7 @@ const Index = () => {
           <input
             type="text"
             placeholder="Search Chowdeck"
-            value=""
-            className="bg-inherit"
+            className="bg-inherit outline-none"
           />
         </div>
         <div></div>
